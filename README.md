@@ -1,2 +1,1 @@
-# hello
-# こんにちは。Linkerです。
+# hello こんにちは。Linkerです。
